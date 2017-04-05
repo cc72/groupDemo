@@ -1,4 +1,7 @@
-
+*{
+    margin:0;
+    padding: 0;
+}
     div {
       height:200px;
       width:500px;
@@ -6,5 +9,14 @@
     }
     p {
       color: white;
-      font-size: 16px;
+      font-size: 26px;
+        text-align: center;
+        line-height:50px;
+    }
+    a{
+        text-decoration: none;
+        font-size: 26px;
+        text-align: center;
+        line-height:50px;
+        color:white;
     }
